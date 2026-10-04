@@ -1,0 +1,7 @@
+{
+  "name": "InsightHR AI",
+  "description": "AI-native HR consultancy suite and autonomous agent workspace for IT, Pharma, and SME sectors.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
